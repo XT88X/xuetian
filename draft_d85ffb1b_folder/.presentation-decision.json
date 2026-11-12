@@ -1,0 +1,1 @@
+{"audience": "秦拴宝（热点素材日报接收人，内容创作者）", "reader_task": "快速掌握今日10个热点事件的核心事实、影响与可创作方向，并跳转查看详细来源", "genre_contract": null, "adapter": null, "presentation_mode": "formal", "visual_plan": {"reason": "日报为纯文字结构化汇总，用户已固定每事件字段结构，事件间用分隔线，无需画板/图片/HTML组件", "blocks": []}}
